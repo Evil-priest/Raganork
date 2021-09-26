@@ -120,7 +120,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
   <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=Killadism+never+ends)](https://bit.ly/3lC8I7t)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=Killadism+never+stops)](https://bit.ly/3lC8I7t)
 # Evil-priest 
 
  
